@@ -1,0 +1,1 @@
+Ini adalah repo saya belajar nasm x64 setelah mempelajari nasm x32 dengan menyelesaikan project aiko sampai batas kemampuan saya.
